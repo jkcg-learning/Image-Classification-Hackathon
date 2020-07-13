@@ -2,6 +2,8 @@
 
 In this hackathon, you will be provided with images of cats and dogs and you must use  your Computer Vision skills to build an image classifier to classify an image as that of a dog or of a cat. In this supervised image classification task, your goal is to classify the images into their respective classes using accuracy as a metric. The Dogs vs Cats is a classic dataset and has been used to train and evaluate models for binary classification tasks. With today's State-of-the-art Computer Vision models, we expect all the participants to achieve an accuracy of more than 90%.
 
+https://www.machinehack.com/hackathons/5f05b7e78842ae057f62ece5
+
 **Data :**
 
 Train (Folder): contains 9471 images of cats and dogs
